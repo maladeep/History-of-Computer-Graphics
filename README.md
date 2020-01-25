@@ -17,7 +17,7 @@ They are created with vector software and are common for images that will be app
  
 For better understanding of history of computer graphics development, I am presenting it with infographic  below:
 
-![](Computer_Graphics_history/Picture1.png)
+![](/images/Picture1.png)
 
 
 
