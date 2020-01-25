@@ -7,7 +7,7 @@ The term computer graphics includes almost everything on computers that is not t
 Before going for history we must know few terms. All computer art is digital, but there are two very different ways of drawing digital images on a computer screen, known as:
 
 1. Raster Graphic
-2. vector graphics.
+2. Vector graphics.
 
 # Raster Graphics (Bit map):
 Building up a picture on a computer screen out of pixels is called raster graphics. They are more common in general extension such as jpg, gif, png, and are widely used on the web. A pixel is a single point or the smallest single element in a display device. If we zoom in to a raster image we start to see a lot of little tiny squares which are pixels. Mostly, we follow raster graphic technique.
