@@ -1,5 +1,5 @@
 # History-of-Computer-Graphics
-Short Intro to History of Computer Graphics 
+Short Intro to History of Computer Graphics | Note 
 
 # Introduction:
 The term computer graphics includes almost everything on computers that is not text or sound but inside the computer the picture is stored as a series of numbers. Changing the numbers and we can change the picture, in the blink of an eye or even quicker which powers the use of computer graphics. Computer graphics as drawing pictures on computers, also called rendering.
